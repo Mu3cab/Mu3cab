@@ -1,4 +1,9 @@
-  
+## 🌐 Socials:
+  <h1 align="center"> Hello there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+    alt="Waving hand animated gif"
+    height="45"
+    width="45" /> I'm Muscab Salah</h1>
+    
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mu3cab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muscab-salah) 
 
