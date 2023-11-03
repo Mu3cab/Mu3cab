@@ -15,11 +15,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@ameinabdi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ameinabdi)](https://twitter.com/ameinabdi)[![Gmail Badge](https://img.shields.io/badge/-ameinabdi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ameinabdi@gmail.com)](mailto:ameinabdi@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ameinabdi-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ameinabdi/)](https://www.instagram.com/ameinabdi/)
+[![Twitter Badge](https://img.shields.io/badge/-@mu3cab-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mu3cab)](https://twitter.com/mu3cab)[![Gmail Badge](https://img.shields.io/badge/-mu3cab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mu3cab@gmail.com)](mailto:mu3cab@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@mu3cab-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/mu3cab/)](https://www.instagram.com/mu3cab/)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ameinabdi/count.svg" />
+  <img src="https://profile-counter.glitch.me/mu3cab/count.svg" />
 </p>
 
 
