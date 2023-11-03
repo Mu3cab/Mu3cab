@@ -16,7 +16,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-##  Contact Me :speech_balloon:
+##  Contact Me:speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@mu3cab-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mu3cab)](https://twitter.com/mu3cab)[![Gmail Badge](https://img.shields.io/badge/-mu3cab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mu3cab@gmail.com)](mailto:mu3cab@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@mu3cab-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/mu3cab/)](https://www.instagram.com/mu3cab/)
 
 <p align="center"> 
