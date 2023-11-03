@@ -1,4 +1,12 @@
+     
+  <h2 align="center">Reach Me At 🔍</h2>
+  
+  <p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/muscab-salah-1027bb296/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn"></a>
+  <a target="_blank" href="mailto:mu3cab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c0392b?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
+  <a target="_blank" href=""><img src="https://img.shields.io/badge/-Portfolio-2A5AD3?style=for-the-badge&logo=Opsgenie"></a>
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mu3cab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mu3cab) 
 
