@@ -11,6 +11,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mu3cab&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mu3cab&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mu3cab&icon=0&color=0)](https://visitcount.itsvg.in)
 
