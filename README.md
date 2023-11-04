@@ -2,6 +2,7 @@
     alt="Waving hand animated gif"
     height="45"
     width="45" /> I'm Muscab Salah</h1>
+    <h3 align="center">A passionate developer from India</h3>
     
 
 # 💻 Tech Stack:
