@@ -2,7 +2,13 @@
     alt="Waving hand animated gif"
     height="45"
     width="45" /> I'm Muscab Salah</h1>
-    <h3 align="center">A passionate developer from India</h3>
+
+    <p align="center">
+        <a href="https://www.linkedin.com/in/muscab-salah-1027bb296/"> 
+            <img alt="Static Badge" src="https://img.shields.io/badge/Junior%20Front%20End%20Developer-%20black?logo=GitHub">
+    
+        </a>
+      </p>
     
 
 # 💻 Tech Stack:
